@@ -27,7 +27,7 @@ export const Login = () => {
     if (isLoading) {
         return (
             <main id="cargando">
-                <img src="https://media.tenor.com/ABFLLPNvvBwAAAAC/pik-awesomeness-charging.gif" alt="imagen_cargando"></img>
+                <img src="https://usagif.com/wp-content/uploads/loading-1.gif" alt="imagen_cargando"></img>
                 <h5>Cargando...</h5>
             </main>
         )
@@ -38,13 +38,13 @@ export const Login = () => {
             <div class="row">
                 <div id="login" class="col-lg-4 offset-lg-4 col-md-6 offset-md-3
                     col-12">
-                    <h2 class="text-center" id="titulo_login">Bienvenido</h2>
+                    <h2 class="text-center" id="titulo_login">¡BIENVENIDO!</h2>
                     <img class="img-fluid mx-auto d-block rounded"
-                        src='https://png.pngtree.com/thumb_back/fh260/background/20220507/pngtree-red-event-carpet-show-design-image_1151105.jpg' alt='Celebridad' />
+                        src='https://png.pngtree.com/thumb_back/fh260/background/20210920/pngtree-black-golden-award-ceremony-background-design-with-red-carpet-on-stage-image_905658.png' alt='Celebridad' />
                     <br></br>
-                    <h3> <strong>Accede desde el siguiente botón</strong></h3>
+                    <h3> <strong>Ingresa para conocer todo sobre celebridades</strong></h3>
                     <br></br>
-                    <button type="button" class="btn btn-outline-danger" id="boton_login" onClick={handleLogin}>Iniciar Sesión</button>
+                    <button type="button" class="btn btn-secondary" id="boton_login" onClick={handleLogin}>Iniciar Sesión</button>
                     <br></br>
                     <br></br>
                     <br></br>
@@ -52,7 +52,7 @@ export const Login = () => {
                 </div>
             </div>
             {/* <section>
-                <h1 id="titulo_login">Bienvenido</h1>
+                <h1 id="titulo_login">!BIENVENIDO!</h1>
             </section> */}
         </main>
     );

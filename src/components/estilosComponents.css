@@ -1,22 +1,22 @@
 body {
-    background: url('https://www.rooftoppost.co.uk/free/wp-content/uploads/2013/02/fire-background.jpg');
+    background: url('https://www.colorhexa.com/031926.png');
 }
 
 #divCard {
     width: 22rem;
     display: inline-flex;
     margin: 70px;
-    border: solid 3px rgb(179, 31, 31);
+    border: solid 3px rgb(0, 0, 0);
     /* background-color: rgba(69, 165, 225, 0.659); */
 }
 
 #nombre_tarjeta {
     text-align: center;
-    color: rgb(41, 75, 186);
+    color: rgb(0, 0, 0);
 }
 
 #seccion_celebridades {
-    background: url('https://images.pexels.com/photos/998090/pexels-photo-998090.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background: url('https://www.colorhexa.com/031926.png');
 }
 
 /* #boton_favoritos {
