@@ -1,0 +1,21 @@
+#cuerpo_login {
+    /*background-color: rgba(150, 231, 194, 0.762);*/
+    background: url('https://media.istockphoto.com/id/1385342943/es/foto/pared-de-hormig%C3%B3n-crema-para-interiores-o-hormig%C3%B3n-pulido-de-superficie-expuesta-al-aire-libre.jpg?s=2048x2048&w=is&k=20&c=qbuWaIaNzblz6vpVjhO7Zbm7lKfGV9J0XybMH_zZGiI=');
+    text-align: center;
+    margin: 30px;
+    padding: 10px;
+    border: solid 5px rgb(0, 153, 255);
+}
+
+#titulo_login {
+    color: rgb(14, 109, 217);
+    text-align: center;
+    margin-top: 50px;
+}
+
+#cargando {
+    background-color: rgba(150, 231, 194, 0.762);
+    text-align: center;
+    margin: 30px;
+    border: solid 5px rgb(255, 51, 0);
+}
